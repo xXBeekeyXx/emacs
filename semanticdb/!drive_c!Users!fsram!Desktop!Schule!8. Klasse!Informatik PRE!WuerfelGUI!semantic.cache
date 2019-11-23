@@ -1,0 +1,74 @@
+;; Object semanticdb-project-database-file
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table"
+      :major-mode jdee-mode
+      :tags 
+        '( ("java.applet.*" include nil nil [1 22])
+            ("java.awt.*" include nil nil [23 41])
+            ("java.util.*" include nil nil [42 61])
+            ("wuerfel" type
+               (:typemodifiers ("public")
+                :superclasses "Applet"
+                :members 
+                  ( ("meinImage1" variable (:type "Image") (reparse-symbol class_member_declaration) [106 123])
+                    ("meinImage2" variable (:type "Image") (reparse-symbol class_member_declaration) [128 145])
+                    ("meinImage3" variable (:type "Image") (reparse-symbol class_member_declaration) [150 167])
+                    ("meinImage4" variable (:type "Image") (reparse-symbol class_member_declaration) [172 189])
+                    ("meinImage5" variable (:type "Image") (reparse-symbol class_member_declaration) [194 211])
+                    ("meinImage6" variable (:type "Image") (reparse-symbol class_member_declaration) [216 233])
+                    ("init" function
+                       (:typemodifiers ("public")
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [238 674])
+                    ("paint" function
+                       (:typemodifiers ("public")
+                        :arguments 
+                          ( ("g" variable (:type "Graphics") (reparse-symbol formal_parameters) [697 707]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [679 2035]))                  
+                :type "class")
+                nil [63 2037]))          
+      :file "wuerfel.java"
+      :pointmax 2038
+      :fsize 2101
+      :lastmodtime '(23966 63525 0 0)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table"
+      :major-mode jdee-mode
+      :tags 
+        '( ("java.util.*" include nil nil [1 20])
+            ("Undefault" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [137 150]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [113 1930]))                  
+                :type "class")
+                nil [50 1935]))          
+      :file "Hello World.java"
+      :pointmax 1947
+      :fsize 1982
+      :lastmodtime '(23964 19023 0 0)
+      :unmatched-syntax '((IDENTIFIER 1941 . 1947) (IDENTIFIER 1936 . 1940)))
+    (semanticdb-table "semanticdb-table"
+      :major-mode mhtml-mode
+      :tags 
+        '( ("wuerfel" section nil nil [35 66])
+            ("" section nil nil [66 154]))          
+      :file "wuerfel.html"
+      :pointmax 154
+      :fsize 162
+      :lastmodtime '(23966 61961 0 0)
+      :unmatched-syntax nil))
+  :file "!drive_c!Users!fsram!Desktop!Schule!8. Klasse!Informatik PRE!WuerfelGUI!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

@@ -1,0 +1,27 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   anhang.aux
+#	new file:   auto/meineBibliothek.el
+#	modified:   document.aux
+#	modified:   document.bbl
+#	modified:   document.bcf
+#	modified:   document.blg
+#	modified:   document.log
+#	modified:   document.pdf
+#	modified:   document.toc
+#	modified:   einleitung.aux
+#	modified:   kapitel1.aux
+#	modified:   kapitel1.tex
+#	modified:   kapitel2.aux
+#	modified:   kapitel2.tex
+#	modified:   kapitel3.aux
+#	modified:   kapitel3.tex
+#	modified:   meineBibliothek.bib
+#	modified:   schluss.aux
+#

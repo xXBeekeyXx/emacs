@@ -1,0 +1,64 @@
+
+;; ----- smex-history -----
+(
+ shell
+ kill-line
+ eval-region
+ load-theme
+ customize-themes
+ eval-buffer
+ visual-line-mode
+)
+
+;; ----- smex-data -----
+(
+ (butterfly . 1)
+ (doctor . 1)
+ (load-theme . 32)
+ (set-face-font . 1)
+ (menu-set-font . 1)
+ (eval-region . 66)
+ (evil-mode . 1)
+ (emacs-version . 3)
+ (package-install . 11)
+ (package-list-packages . 3)
+ (esup . 1)
+ (customize-themes . 3)
+ (package-delete . 6)
+ (gnus . 2)
+ (gnus-group-list-all-groups . 1)
+ (eww-mode . 2)
+ (eww . 22)
+ (eww-back-url . 9)
+ (eww-browse-with-external-browser . 1)
+ (quit-window . 1)
+ (eww-toggle-colors . 1)
+ (eshell . 6)
+ (w3m . 3)
+ (shell . 10)
+ (visual-line-mode . 6)
+ (dired . 25)
+ (org-todo-list . 1)
+ (evil-window-new . 1)
+ (remember-notes . 1)
+ (emms-start . 1)
+ (emms-smart-browse . 2)
+ (tetris . 1)
+ (calendar . 1)
+ (list-packages . 2)
+ (preview-buffer . 4)
+ (fundamental-mode . 1)
+ (org-capture . 1)
+ (TeX-view . 1)
+ (man . 8)
+ (magit-status . 2)
+ (package-refresh-contents . 1)
+ (compilation-next-error . 1)
+ (evil-insert-state . 3)
+ (evil-normal-state . 4)
+ (info . 1)
+ (toggle-viper-mode . 1)
+ (viper-go-away . 1)
+ (eval-buffer . 2)
+ (kill-line . 1)
+)

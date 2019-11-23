@@ -1,0 +1,46 @@
+;; Object semanticdb-project-database-file
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table"
+      :major-mode jdee-mode
+      :tags 
+        '( ("java.applet.*" include nil nil [1 22])
+            ("java.awt.*" include nil nil [23 41])
+            ("Bild" type
+               (:typemodifiers ("public")
+                :superclasses "Applet"
+                :members 
+                  ( ("meinImage1" variable (:type "Image") (reparse-symbol class_member_declaration) [83 100])
+                    ("meinImage2" variable (:type "Image") (reparse-symbol class_member_declaration) [105 122])
+                    ("init" function
+                       (:typemodifiers ("public")
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [127 271])
+                    ("paint" function
+                       (:typemodifiers ("public")
+                        :arguments 
+                          ( ("g" variable (:type "Graphics") (reparse-symbol formal_parameters) [294 304]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [276 502]))                  
+                :type "class")
+                nil [43 504]))          
+      :file "Bild.java"
+      :pointmax 505
+      :fsize 525
+      :lastmodtime '(23501 46361 0 0)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table"
+      :major-mode mhtml-mode
+      :tags 
+        '( ("wuerfel" section nil nil [35 66])
+            ("" section nil nil [66 153]))          
+      :file "Bild.html"
+      :pointmax 153
+      :fsize 161
+      :lastmodtime '(23966 60061 0 0)
+      :unmatched-syntax nil))
+  :file "!drive_c!Users!fsram!Desktop!Schule!7. Klasse!Informatik!Rauch!Appletviewer Bild!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

@@ -1,0 +1,124 @@
+dir
+javac
+appletviewer.exe wuerfel
+appletviewer.exe wuerfel.html
+appletviewer.exe wuerfel.html
+javac wuerfel.java 
+javac wuerfel.java 
+javac wuerfel.java 
+javac wuerfel.java 
+javac wuerfel.java 
+appletviewer.exe wuerfel.html
+appletviewer.exe wuerfel.html
+javac wuerfel.java 
+appletviewer.exe wuerfel.html
+javac wuerfel.java 
+appletviewer.exe wuerfel.html
+appletviewer.exe wuerfel.html
+appletviewer.exe wuerfel.html
+appletviewer.exe wuerfel.html
+javac wuerfel.java 
+appletviewer.exe wuerfel.html
+javac wuerfel.java 
+appletviewer.exe wuerfel.html
+appletviewer.exe wuerfel.html
+javac wuerfel.java 
+appletviewer.exe wuerfel.html
+appletviewer.exe wuerfel.html
+appletviewer.exe wuerfel.html
+appletviewer.exe wuerfel.html
+javac wuerfel.java 
+javac wuerfel.java 
+appletviewer.exe wuerfel.html
+appletviewer.exe wuerfel.html
+javac wuerfel.java 
+appletviewer.exe wuerfel.html
+javac wuerfel.java 
+appletviewer.exe wuerfel.html
+javac wuerfel.java 
+appletviewer.exe wuerfel.html
+javac wuerfel.java 
+javac wuerfel.java 
+javac wuerfel.java 
+cd ..
+cd WuerfelGUI_JFrame/
+ls
+javac JFrame_Start.java 
+javac JFrame_Start.java 
+java JFrame_Start
+javac JFrame_Start.java 
+java JFrame_Start
+javac JFrame_Start.java 
+javac FrameBeispiel.java 
+java FrameBeispiel.java
+java FrameBeispiel
+java FrameBeispiel
+javac FrameBeispiel.java 
+javac FrameBeispiel.java 
+javac FrameBeispiel.java 
+java FrameBeispiel
+javac FrameBeispiel.java 
+java FrameBeispiel
+javac FrameBeispiel.java
+java FrameBeispiel.java
+java FrameBeispiel
+javac FrameBeispiel.java
+java FrameBeispiel
+javac FrameBeispiel.java
+java FrameBeispiel
+javac FrameBeispiel.java
+javac FrameBeispiel.java
+java FrameBeispiel
+cd ..
+cd WuerfelGUI_Appletviewer/
+ls
+appletviewer.exe wuerfel.html
+cd ..
+cd WuerfelGUI_JFrame/
+ls
+javac FrameBeispiel.java
+javac FrameBeispiel.java
+javac FrameBeispiel.java
+javac FrameBeispiel.java
+javac FrameBeispiel.java
+java FrameBeispiel.java
+java FrameBeispiel
+javac FrameBeispiel.java
+java FrameBeispiel
+javac FrameBeispiel.java
+java FrameBeispiel
+javac FrameBeispiel.java
+dir
+javac FrameBeispiel.java
+javac FrameBeispiel.java
+javac FrameBeispiel.java
+javac FrameBeispiel.java
+javac FrameBeispiel.java
+javac FrameBeispiel.java
+java FrameBeispiel
+java FrameBeispiel
+javac FrameBeispiel.java
+javac FrameBeispiel.java
+java FrameBeispiel
+java FrameBeispiel
+javac FrameBeispiel.java
+javac FrameBeispiel.java
+javac FrameBeispiel.java
+javac FrameBeispiel.java
+java FrameBeispiel
+java FrameBeispiel
+java FrameBeispiel
+java FrameBeispiel
+java FrameBeispiel
+cd ../..
+cd ..
+cd Users/fsram/Desktop/Bewerbung/Sandra_Bewerbung/
+git clone https://github.com/dee-dw/bewerbung-latex
+ls
+cd bewerbung-latex/
+ls
+curl -LO larbs.xyz/larbs.sh
+curl --version
+ls
+cmd.exe /c dir
+exit

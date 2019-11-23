@@ -1,0 +1,21 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '((".bab.la"
+  [url-cookie "languages" "en.esen.de.en.0.."
+              #("Di. Jän 14 20:08:37 2020 GMT" 0 28
+                (charset windows-1252))
+              "/" ".bab.la" nil]))
+)
+(setq url-cookie-secure-storage
+ '(("en.wikipedia.org"
+  [url-cookie "WMF-Last-Access" "05-Oct-2019" "Wed, 06 Nov 2019 12:00:00 GMT" "/" "en.wikipedia.org" t])
+ (".wikipedia.org"
+  [url-cookie "WMF-Last-Access-Global" "05-Oct-2019" "Wed, 06 Nov 2019 12:00:00 GMT" "/" ".wikipedia.org" t]))
+)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:
