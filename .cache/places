@@ -1,0 +1,90 @@
+;;; -*- coding: utf-8 -*-
+(("c:/Users/fsram/Desktop/latextest/vwa-ex/kapitel2.tex" . 24)
+ ("c:/Users/fsram/Desktop/latextest/vwa-ex/kapitel3.tex" . 185)
+ ("c:/Users/fsram/Desktop/latextest/vwa-ex/meineBibliothek.bib" . 41911)
+ ("c:/Users/fsram/AppData/Roaming/.spacemacs" . 16451)
+ ("c:/Users/fsram/AppData/Roaming/.emacs.d/.cache/recentf" . 11402)
+ ("c:/Users/fsram/AppData/Roaming/.emacs.d/.cache/layouts/persp-auto-save" . 2704)
+ ("c:/Users/fsram/Desktop/latextest/vwa-ex/kapitel3.aux" . 6)
+ ("c:/Users/fsram/Desktop/latextest/vwa-ex/literatur.tex" . 568)
+ ("c:/Users/fsram/Desktop/latextest/vwa-ex/einleitung.tex" . 1371)
+ ("c:/Users/fsram/Desktop/latextest/vwa-ex/kapitel1.tex" . 2803)
+ ("c:/Users/fsram/Desktop/latextest/vwa-ex/quellen.bib" . 7749)
+ ("c:/Users/fsram/Desktop/Schule/8. Klasse/Spanisch/"
+  (dired-filename . "c:/Users/fsram/Desktop/Schule/8. Klasse/Spanisch/WhatsApp Image 2019-09-26 at 18.26.57.jpeg"))
+ ("c:/Users/fsram/Desktop/Schule/8. Klasse/Spanisch/Franz_Srambical-S131_8.md" . 796)
+ ("c:/Users/fsram/Desktop/Schule/8. Klasse/Informatik PRE/Bild.java" . 983)
+ ("c:/Users/fsram/Desktop/latextest/vwa-ex/document.tex" . 1335)
+ ("c:/Users/fsram/Desktop/latextest/vwa-ex/.gitignore" . 47)
+ ("c:/Users/fsram/Desktop/Schule/8. Klasse/"
+  (dired-filename . "c:/Users/fsram/Desktop/Schule/8. Klasse/Deutsch"))
+ ("c:/Users/fsram/Desktop/latextest/vwa-ex/abstract.tex" . 334)
+ ("c:/Users/fsram/Desktop/latextest/vwa-ex/vorwort.tex" . 399)
+ ("c:/Users/fsram/Desktop/vwa research/gliederung.md" . 625)
+ ("c:/Users/fsram/Desktop/latextest/vwa-ex/README.md" . 142)
+ ("c:/Users/fsram/Downloads/whatsapp-parser-lite-master/"
+  (dired-filename . "c:/Users/fsram/Downloads/whatsapp-parser-lite-master/.gitignore"))
+ ("c:/Users/fsram/Desktop/leandersWhatsappParser/testfile.txt" . 78)
+ ("c:/Users/fsram/Desktop/leandersWhatsappParser/testparser.py" . 37)
+ ("c:/Users/fsram/Downloads/datentest.txt" . 239)
+ ("c:/Users/fsram/Downloads/"
+  (dired-filename . "c:/Users/fsram/Downloads/datentest.txt"))
+ ("c:/Users/fsram/Desktop/latextest/"
+  (dired-filename . "c:/Users/fsram/Desktop/latextest/document.bbl"))
+ ("c:/Users/fsram/Desktop/vwa research/relevante_Begriffe.md" . 1268)
+ ("c:/Users/fsram/Desktop/latextest/vwa-ex/"
+  (dired-filename . "c:/Users/fsram/Desktop/latextest/vwa-ex/document.tex"))
+ ("c:/Users/fsram/Desktop/vwa research/"
+  (dired-filename . "c:/Users/fsram/Desktop/vwa research/relevante_Begriffe.md"))
+ ("c:/Users/fsram/Desktop/vwa-workspace/vwa/document.tex" . 63)
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Informatik/Rauch/AminRef/project.py" . 81)
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Biologie/Malaria-Ausarbeitung.md" . 2184)
+ ("c:/Users/fsram/Desktop/Bewerbung/Bewerbungsschreiben/"
+  (dired-filename . "c:/Users/fsram/Desktop/Bewerbung/Bewerbungsschreiben/OMV-Bewerbungsschreiben.md"))
+ ("c:/Users/fsram/Desktop/Bewerbung/Bewerbungsschreiben/Bewerbungsschreiben-Wiener_Linien.docx" . 176)
+ ("c:/Users/fsram/Desktop/vwa-workspace/vwa/vwa-uberblick.org" . 459)
+ ("c:/Users/fsram/Desktop/vwa-workspace/vwa/vwa-org.tex" . 595)
+ ("c:/Users/fsram/Desktop/vwa-workspace/vwa/vorwort.tex" . 698)
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Deutsch/Edgar-Totengespräch.md" . 142)
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Informatik/Schwanzer/cplusplus-workspace/vwa/cplusplusquellen.bib" . 94)
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Deutsch/Franz_Srambical-Edgars_Sprechstil.md" . 118)
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Informatik/Schwanzer/cplusplus-workspace/vwa/cplusplus.tex" . 3939)
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Spanisch/Franz_Srambical-Futur-Text.md" . 37)
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Deutsch/Franz_Srambical-Anregungen-Inhaltsangabe-DNLDJW.md" . 339)
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Deutsch/dieneuenleidendesjungenw-inhaltsangabe.md" . 469)
+ ("c:/Users/fsram/Desktop/Bewerbung/"
+  (dired-filename . "c:/Users/fsram/Desktop/Bewerbung/Bewerbungsschreiben"))
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Biologie/Bio-Ausarbeitung.md" . 36)
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Geographie/Wirtschaftsordnungen.md" . 648)
+ ("c:/Users/fsram/"
+  (dired-filename . "c:/Users/fsram/Desktop"))
+ ("c:/Users/fsram/Desktop/"
+  (dired-filename . "c:/Users/fsram/Desktop/Schule"))
+ ("c:/Users/fsram/Desktop/Schule/"
+  (dired-filename . "c:/Users/fsram/Desktop/Schule/7. Klasse"))
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/"
+  (dired-filename . "c:/Users/fsram/Desktop/Schule/7. Klasse/Biologie"))
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Biologie/"
+  (dired-filename . "c:/Users/fsram/Desktop/Schule/7. Klasse/Biologie/Krankheiten.org"))
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Biologie/Krankheiten.org" . 1672)
+ ("c:/Windows/System32/"
+  (dired-filename . "c:/Windows/System32/0409"))
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Englisch/blog.org" . 70)
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Englisch/blog.tex" . 815)
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Geographie/"
+  (dired-filename . "c:/Users/fsram/Desktop/Schule/7. Klasse/Geographie/Adolph Menzel Eisenwalzwerk.docx"))
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Geographie/ausarbeitung.org" . 1111)
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Geographie/ausarbeitung.tex" . 2552)
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Spanisch/Text-Vergangenheit.org" . 818)
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Spanisch/Text-Vergangenheit.tex" . 1419)
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Informatik/Rauch/JavaInput/Klasse.java" . 254)
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Informatik/"
+  (dired-filename . "c:/Users/fsram/Desktop/Schule/7. Klasse/Informatik/Rauch"))
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Informatik/Rauch/"
+  (dired-filename . "c:/Users/fsram/Desktop/Schule/7. Klasse/Informatik/Rauch/Java_Projekte"))
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Informatik/Rauch/Java_Projekte/"
+  (dired-filename . "c:/Users/fsram/Desktop/Schule/7. Klasse/Informatik/Rauch/Java_Projekte/src"))
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Informatik/Rauch/Java_Projekte/src/"
+  (dired-filename . "c:/Users/fsram/Desktop/Schule/7. Klasse/Informatik/Rauch/Java_Projekte/src/glueck1"))
+ ("c:/Users/fsram/Desktop/Schule/7. Klasse/Informatik/Rauch/Java_Projekte/src/glueck1/Lotto1.java" . 238)
+ ("c:/Users/fsram/go/src/main.go" . 74))
