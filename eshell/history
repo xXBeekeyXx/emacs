@@ -120,5 +120,9 @@ ls
 curl -LO larbs.xyz/larbs.sh
 curl --version
 ls
-cmd.exe /c dir
-exit
+pdftotext.exe document.pdf 
+pdftotext.exe document.pdf 
+pdftotext.exe document.pdf 
+pdftotext.exe document.pdf 
+pdftotext.exe document.pdf 
+pdftotext.exe document.pdf 
