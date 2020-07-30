@@ -18,7 +18,7 @@
  '(objed-cursor-color "#cc6666")
  '(package-selected-packages
    (quote
-    (evil-magit jdee auctex emms evil-org evil evil-mode smex org ido-vertical-mode dashboard page-break-lines undo-tree magit anaconda-mode company autopair doom-themes nordless-theme nord-theme)))
+    (geiser evil-magit jdee auctex emms evil-org evil evil-mode smex org ido-vertical-mode dashboard page-break-lines undo-tree magit anaconda-mode company autopair doom-themes nordless-theme nord-theme)))
  '(sml/mode-width
    (if
        (eq
@@ -122,8 +122,8 @@
 (set-default-coding-systems 'utf-8)
 (set-terminal-coding-system 'utf-8)
 (set-keyboard-coding-system 'utf-8)
-(setq coding-system-for-read 'utf-8)
-(setq coding-system-for-write 'utf-8)
+;(setq coding-system-for-read 'utf-8)
+;(setq coding-system-for-write 'utf-8)
 
 (require 'package)
 (setq package-enable-at-startup nil)
@@ -367,3 +367,7 @@
 (display-battery-mode 1)
 (setq battery-mode-line-format "%p%%") ; Default: "[%b%p%%]"
 
+(set-variable (quote scheme-program-name) "scheme")
+
+(use-package geiser
+  :ensure t)
