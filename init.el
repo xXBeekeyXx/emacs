@@ -159,6 +159,11 @@
   :config
   (evil-mode))
 
+(use-package evil-escape
+  :ensure t
+  :config
+  (evil-escape-mode t))
+
 (use-package ido
   :ensure t
   :defer .1 ;; don't block emacs when starting, load evil immediately after startup
@@ -323,9 +328,9 @@
   :config
   (setq emms-source-file-default-directory "c:/Users/fsram/Documents/emms-music"))
 
-(use-package tex-mik
-  :config
-  (load "auctex.el" nil t t))
+;(use-package tex-mik
+;  :config
+;  (load "auctex.el" nil t t))
 
 (setq TeX-auto-save t)
 (setq TeX-parse-self t)
@@ -369,5 +374,5 @@
 
 (set-variable (quote scheme-program-name) "scheme")
 
-(use-package geiser
-  :ensure t)
+;(use-package geiser
+  ;:ensure t)
